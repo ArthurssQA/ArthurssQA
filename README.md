@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arthur Santana
+# Hi, I'm Arthur Santana
 
 ### QA em formação | Testes Manuais & Automatizados | Ciência da Computação
 
