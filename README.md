@@ -1,5 +1,4 @@
 # Hi, I'm Arthur Santana
-
 ### QA em formação | Testes Manuais & Automatizados | Ciência da Computação
 
 <p align="left">
@@ -41,7 +40,7 @@ Sou formado em **Ciência da Computação** e estou em transição de carreira p
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| **Plano e Casos de Teste** | Documentação de plano de teste e casos de teste manuais de uma aplicação real. | *em breve* |
+| **Casos de Teste — SauceDemo** | Casos de teste manuais e bugs reais encontrados em um e-commerce de teste (SauceDemo). | [🔗 Ver repositório](https://github.com/arthurssqa/casos-de-testes-saucedemo) |
 | **Testes de API com Postman** | Coleção de testes automatizados validando endpoints de uma API pública. | *em breve* |
 | **Automação Web** | Suíte de testes automatizados end-to-end (Selenium/Cypress). | *em breve* |
 
