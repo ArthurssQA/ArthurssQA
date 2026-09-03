@@ -18,7 +18,7 @@
 
 Sou formado em **Ciência da Computação** e estou em transição de carreira para **Quality Assurance (QA)**, unindo minha base técnica em lógica de programação, banco de dados e engenharia de software à mentalidade de qualidade e testes.
 
-- 🔍 Estudando **testes manuais** (planejamento, casos de teste, gestão de bugs) e **testes automatizados** (Selenium/Cypress, Postman).
+- 🔍 Estudando **testes manuais** (planejamento, casos de teste, gestão de bugs) e **testes automatizados** (Cypress, Postman).
 - 🎓 Graduado em Ciência da Computação, com base sólida em lógica, algoritmos, POO e banco de dados.
 - 🧪 Buscando minha primeira oportunidade como **QA Júnior**.
 - 📚 Em preparação para a certificação **ISTQB CTFL**.
@@ -28,7 +28,7 @@ Sou formado em **Ciência da Computação** e estou em transição de carreira p
 ### 🛠️ Stack de QA
 
 - **Testes Manuais:** Planejamento de testes, casos de teste, testes exploratórios, gestão de bugs.
-- **Automação:** Selenium, Cypress *(em aprendizado)*.
+- **Automação:** Cypress *(em aprendizado)*.
 - **Testes de API:** Postman.
 - **Banco de Dados:** SQL (consultas, validação de dados de teste).
 - **Gestão Ágil:** Jira, Scrum, Kanban.
