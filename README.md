@@ -60,7 +60,7 @@ Sou formado em **Ciência da Computação** e estou em transição de carreira p
 ### 📬 Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ArthurssDev" target="_blank">
+  <a href="https://www.linkedin.com/in/arthurssqa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:arthurssdev@gmail.com">
